@@ -41,4 +41,4 @@ airfocus Items (Epics, etc) that are created or updated will be sent through the
 # Known Limitations
 
 Available Workspaces are limited to what is setup by the MetaData values.
-Available fields are limited to what is setup by the Fields values.
+Available fields are limited to what is setup by the Fields values.  See attached document for using the Status field and it's setup.
