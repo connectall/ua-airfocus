@@ -1,3 +1,4 @@
+[airfocusUnversalAdapterSetup.docx](https://github.com/user-attachments/files/18691899/airfocusUnversalAdapterSetup.docx)
 # ua-airfocus
 
 The ConnectALL airfocus Universal Adapter is developed as an extension to the universal adapter capability of ConnectALL. This adapter will allow the user to use airfocus with ConnectALL. Current capabilities and limitations will be defined below.
